@@ -1,7 +1,7 @@
 # Exercicios-M1S10
 
 
-# Exercícios Teóricos: 
+# Exercícios Teóricos:
 
 [M1S10] Ex 1 - useReducer teoria
 [M1S10] Ex 2 - useReducer teoria
