@@ -5,8 +5,7 @@ import { AuthConsumer } from './components/consumer/authConsumer';
 import { AuthContext } from './contexts/auth';
 
 function App() {
-  const [authenticated, setAuthenticated] = useState(false);
-  const [theme, setTheme] = useState('ligth');
+  const [authenticated, setAuthenticated] = useState(false);  
   return (        
     <div className="App">      
       <header className=  "App-header">                
